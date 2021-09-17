@@ -4,12 +4,12 @@ class max
         int a=54,b-86;
         if(a>b)
         {
-            system.out.print(a);
+            system.out.println(a);
 
         }
         else
         {
-            system.out.print(b);
+            system.out.println(b);
 
         }
     }
